@@ -1,4 +1,4 @@
-# Rotary-Inverted-Pendulum
+# Rotary-Inverted-Pendulum (Furuta Pendulum)
 
 This project includes the SolidWorks model of a Rotary Inverted Pendulum.
 It also includes the SimScape block diagram to control the inverted pendulum.
